@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DemoSecurity:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemoSecurity_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DemoSecurity/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DemoSecurity" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
